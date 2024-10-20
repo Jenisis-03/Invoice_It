@@ -1,13 +1,27 @@
 # Full Stack Invoice App with Next.js 15, Clerk, & Xata
 
-📺 YouTube: 
+## Overview
+This Invoicing App leverages modern technologies like Next.js, Clerk for authentication, and PostgreSQL for database management. Designed to streamline invoice generation and payment processing, it features a responsive UI for a seamless user experience.
 
-🚀 Demo: 
+## Features
+- **User Authentication**: Secure sign-in and sign-up using Clerk.
+- **Dynamic Invoice Generation**: Create, edit, and manage invoices effortlessly.
+- **Payment Integration**: Easily handle payments through Stripe.
 
-## More tutorials and walkthroughs
+## Technologies Used
+- Next.js
+- Clerk for authentication
+- PostgreSQL
+- Drizzle ORM
 
-🐦 [Follow me on Twitter](https://twitter.com/colbyfayock)
+## Getting Started
+1. Clone the repository.
+2. Set up your environment variables in a `.env` file.
+3. Install dependencies: `npm install`.
+4. Run the development server: `npm run dev`.
 
-📺 [Subscribe on YouTube](https://www.youtube.com/colbyfayock)
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or features.
 
-✉️ [Sign Up for My Newsletter](https://colbyfayock.com/newsletter)
+## License
+This project is licensed under the MIT License.
