@@ -137,13 +137,6 @@ npm run dev
 - Third-party integrations (accounting software)
 - Enhanced mobile application
 
-## 📬 Connect & Collaborate
-
-**Project Creator**: [Your Name]
-- 📧 Email: your.email@example.com
-- 🔗 LinkedIn: [Your LinkedIn Profile]
-- 🐙 GitHub: @YourUsername
-
 **Project Repository**: 
 [https://github.com/Jenisis-03/Invoice_It](https://github.com/Jenisis-03/Invoice_It)
 
